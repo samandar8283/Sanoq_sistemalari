@@ -1,0 +1,14 @@
+D:\darsliklar\Bulutli_texnologiyalar\Sanoq_sistemalari\bin\Debug\net8.0\Sanoq_sistemalari.exe
+D:\darsliklar\Bulutli_texnologiyalar\Sanoq_sistemalari\bin\Debug\net8.0\Sanoq_sistemalari.deps.json
+D:\darsliklar\Bulutli_texnologiyalar\Sanoq_sistemalari\bin\Debug\net8.0\Sanoq_sistemalari.runtimeconfig.json
+D:\darsliklar\Bulutli_texnologiyalar\Sanoq_sistemalari\bin\Debug\net8.0\Sanoq_sistemalari.dll
+D:\darsliklar\Bulutli_texnologiyalar\Sanoq_sistemalari\bin\Debug\net8.0\Sanoq_sistemalari.pdb
+D:\darsliklar\Bulutli_texnologiyalar\Sanoq_sistemalari\obj\Debug\net8.0\Sanoq_sistemalari.GeneratedMSBuildEditorConfig.editorconfig
+D:\darsliklar\Bulutli_texnologiyalar\Sanoq_sistemalari\obj\Debug\net8.0\Sanoq_sistemalari.AssemblyInfoInputs.cache
+D:\darsliklar\Bulutli_texnologiyalar\Sanoq_sistemalari\obj\Debug\net8.0\Sanoq_sistemalari.AssemblyInfo.cs
+D:\darsliklar\Bulutli_texnologiyalar\Sanoq_sistemalari\obj\Debug\net8.0\Sanoq_sistemalari.csproj.CoreCompileInputs.cache
+D:\darsliklar\Bulutli_texnologiyalar\Sanoq_sistemalari\obj\Debug\net8.0\Sanoq_sistemalari.dll
+D:\darsliklar\Bulutli_texnologiyalar\Sanoq_sistemalari\obj\Debug\net8.0\refint\Sanoq_sistemalari.dll
+D:\darsliklar\Bulutli_texnologiyalar\Sanoq_sistemalari\obj\Debug\net8.0\Sanoq_sistemalari.pdb
+D:\darsliklar\Bulutli_texnologiyalar\Sanoq_sistemalari\obj\Debug\net8.0\Sanoq_sistemalari.genruntimeconfig.cache
+D:\darsliklar\Bulutli_texnologiyalar\Sanoq_sistemalari\obj\Debug\net8.0\ref\Sanoq_sistemalari.dll
